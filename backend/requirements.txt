@@ -1,0 +1,7 @@
+# Demo build (what runs today)
+starlette>=0.40
+uvicorn>=0.30
+pydantic>=2.6
+PyJWT>=2.8
+httpx>=0.27      # tests (starlette TestClient)
+pytest>=8
